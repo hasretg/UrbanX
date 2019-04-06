@@ -1,2 +1,2 @@
-# Geoinformatics_Lab
-ETH Zurich - GIS and Geoinformatics Lab - Hololens Application
+# UrbanX
+We introduce UrbanX, a Hololens application for efficient and interactive urban planning. What sets our application apart from the traditional way of doing urban planning is the combination of visual appearance and information. While looking at the model we can directly get several attributes of a building (e.g. size, height, residents, year of construction, etc.) in a popup window. To compare one feature of all buildings between each other you can color the whole model rule based according to various attributes. A virtual panel shows information about the area with bar graphs and diagrams.
